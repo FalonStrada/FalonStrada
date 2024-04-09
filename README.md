@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-# Welcom to Falon Strada's Automation Projects Portfolio
+# Welcome to Falon Strada's Automation Projects Portfolio
 
 ¡Bienvenido a mi portfolio de proyectos de automatización en GitHub! Soy Falon Strada, una profesional de QA con cinco años de experiencia, actualmente enfocada en aprender y practicar automatización utilizando Platwright con JavaScript.
 
