@@ -3,7 +3,7 @@
 
 # Falon Strada's Automation Projects Portfolio
 
-¡Bienvenido a mi portfolio de proyectos de automatización en GitHub! Soy Falon Strada, una profesional de QA con cinco años de experiencia, actualmente enfocada en aprender y practicar automatización utilizando #2EAD33 #F7DF1E
+¡Bienvenido a mi portfolio de proyectos de automatización en GitHub! Soy Falon Strada, una profesional de QA con cinco años de experiencia, actualmente enfocada en aprender y practicar automatización utilizando https://badgen.net/badge/:languaje/:js/:color?#F7DF1E
 
 ## Objetivo
 Mi objetivo principal con este repositorio es ganar experiencia en automatización y documentar mi proceso de aprendizaje. A través de la automatización de proyectos, como el ejemplo de una web de comercio electrónico que he incluido aquí, busco demostrar mis habilidades en Platwright y JavaScript, así como mi capacidad para aplicarlas en casos prácticos.
