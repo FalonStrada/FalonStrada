@@ -17,7 +17,7 @@ Como profesional de QA con cinco años de experiencia, he trabajado en diversos 
 Eeste repositorio sirve como evidencia tangible de mi capacidad para aprender y poner en practica nuevas tecnologías. 
 
 ## Visibilidad
-Este repositorio está vinculado a mi perfil de LinkedIn ([Falon Strada](https://www.linkedin.com/in/falonstrada/)) y está dirigido especialmente a los reclutadores y profesionales de recursos humanos que visitan mi perfil. 
+Este repositorio está vinculado a mi perfil de LinkedIn ([Falon Strada](https://www.linkedin.com/in/falonstrada/)), y está dirigido especialmente a reclutadores, profesionales de recursos humanos y QA Leads que visitan mi perfil.
 
 ## Cómo Contribuir
 ¡Me encantaría recibir comentarios y contribuciones a mis proyectos de automatización! Si estás interesado en colaborar, no dudes en contactarme a través de LinkedIn.
