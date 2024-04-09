@@ -13,7 +13,7 @@ Mi objetivo principal con este repositorio es ganar experiencia en automatizaci�
 Este proyecto consiste en la automatización de una web de comercio electrónico de práctica utilizando Platwright y JavaScript. Incluye scripts de automatización para diversas funcionalidades, como la navegación por el sitio, la selección de productos y la realización de compras simuladas.
 
 ## Acerca de Mí
-Como profesional de QA con cinco años de experiencia, he trabajado en diversos proyectos de prueba de software, pero estoy emocionado de expandir mis habilidades hacia la automatización. Aunque no tengo un curso formal o diploma que certifique mis competencias en automatización, este repositorio sirve como evidencia tangible de mi capacidad para aprender y aplicar nuevas tecnologías por mi cuenta.
+Como profesional de QA con cinco años de experiencia, he trabajado en diversos proyectos de prueba de software, motivada por expandir mis habilidades hacia la automatización de pruebas de regresión, una habiliadad altamente requerida en nuestro sector. Aunque no tengo un curso formal o diploma que certifique mis competencias en automatización, este repositorio sirve como evidencia tangible de mi capacidad para aprender y aplicar nuevas tecnologías por mi cuenta. 
 
 ## Visibilidad
 Este repositorio está vinculado a mi perfil de LinkedIn ([Falon Strada](https://www.linkedin.com/in/falonstrada/)) y está dirigido especialmente a los reclutadores y profesionales de recursos humanos que visitan mi perfil. Sirve como una muestra de mi trabajo en automatización y mi capacidad para aprender de manera autodidacta.
