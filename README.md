@@ -18,7 +18,7 @@ This repository is linked to my LinkedIn profile (Falon Strada) and is specifica
 How to Contribute
 I would love to receive feedback and contributions to my automation projects! If you're interested in collaborating, feel free to contact me via LinkedIn.
 
-Thank you for visiting my portfolio and for your interest in my automation projects!n!
+Thank you for visiting my portfolio and for your interest in my automation projects!
 
 ---
 
