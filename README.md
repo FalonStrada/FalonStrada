@@ -2,26 +2,23 @@
 ---
 
 # Falon Strada's Automation Projects Portfolio
-¡Bienvenido a mi portfolio de proyectos de automatización en GitHub! Soy Falon Strada, una profesional de QA con cinco años de experiencia, actualmente enfocada en aprender y practicar automatización utilizando Playwright con JavaScript.
+Objective
+My main goal with this repository is to gain experience in automation and document my learning process. Through automating projects, like the example of an e-commerce website I've included here, I aim to showcase my skills in Playwright and JavaScript, as well as my ability to apply them in practical cases.
 
-## Objetivo
-Mi objetivo principal con este repositorio es ganar experiencia en automatización y documentar mi proceso de aprendizaje. A través de la automatización de proyectos, como el ejemplo de una web de comercio electrónico que he incluido aquí, busco demostrar mis habilidades en Platwright y JavaScript, así como mi capacidad para aplicarlas en casos prácticos.
+Highlighted Projects
+E-commerce Automation Project
+This project involves automating a practice e-commerce website using Playwright and JavaScript. It includes automation scripts for various functionalities, such as site navigation, product selection, and simulated purchases.
 
-## Proyectos Destacados
-### E-commerce Automation Project
-Este proyecto consiste en la automatización de una web de comercio electrónico de práctica utilizando Platwright y JavaScript. Incluye scripts de automatización para diversas funcionalidades, como la navegación por el sitio, la selección de productos y la realización de compras simuladas.
+About Me
+As a QA professional with five years of experience, I've worked on various software testing projects. Currently, I am motivated to expand my skills towards regression testing automation, a highly demanded skill in today's job market. This repository serves as tangible evidence of my ability to learn and put new technologies into practice.
 
-## Acerca de Mí
-Como profesional de QA con cinco años de experiencia, he trabajado en diversos proyectos de prueba de software. Actualmente, me encuentro motivada por expandir mis habilidades hacia la automatización de pruebas de las regresión, habiliadad altamente demandada en el meracdo laboral actual.  
-Eeste repositorio sirve como evidencia tangible de mi capacidad para aprender y poner en practica nuevas tecnologías. 
+Visibility
+This repository is linked to my LinkedIn profile (Falon Strada) and is specifically aimed at recruiters, HR professionals, and QA Leads who visit my profile.
 
-## Visibilidad
-Este repositorio está vinculado a mi perfil de LinkedIn ([Falon Strada](https://www.linkedin.com/in/falonstrada/)), y está dirigido especialmente a reclutadores, profesionales de recursos humanos y QA Leads que visitan mi perfil.
+How to Contribute
+I would love to receive feedback and contributions to my automation projects! If you're interested in collaborating, feel free to contact me via LinkedIn.
 
-## Cómo Contribuir
-¡Me encantaría recibir comentarios y contribuciones a mis proyectos de automatización! Si estás interesado en colaborar, no dudes en contactarme a través de LinkedIn.
-
-¡Gracias por visitar mi portfolio y por tu interés en mis proyectos de automatización!
+Thank you for visiting my portfolio and for your interest in my automation projects!n!
 
 ---
 
