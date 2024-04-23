@@ -6,7 +6,7 @@ Objective:
 My main goal with this repository is to gain experience in automation and document my learning process. Through automating projects, like the example of an e-commerce website I've included here, I aim to showcase my skills in Playwright and JavaScript, as well as my ability to apply them in practical cases.
 
 Highlighted Projects:
-E-commerce Automation Project
+AutomationPractices
 This project involves automating a practice e-commerce website using Playwright and JavaScript. It includes automation scripts for various functionalities, such as site navigation, product selection, and simulated purchases.
 
 About Me:
