@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, and welcome to Falon Strada's Automation Portfolio
 ---
 
-# Falon Strada's Automation Portfolio
 # Agility made real: Automated testing with Playwright, powered by the AI-IDE, Windsurf.
 
 AI is here to stay — and as someone starting in automation, Windsurf has been key to closing my programming learning gap, with continuous code reviews and mentorship guiding me throughout my learning journey.
