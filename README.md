@@ -1,5 +1,5 @@
-## Welcome to Falon Strada's Automation Portfolio
----
+<h2 align="center">Welcome to Falon Strada's Automation Portfolio</h2>
+
 
 ### Agility made real: Automated testing with Playwright, powered by the AI-IDE, Windsurf.
 
@@ -23,7 +23,8 @@ I would love to receive feedback and contributions to my automation projects! If
 Thank you for visiting my portfolio and for your interest in my automation projects!
 
 ---
-## 🧰 Tech Stack
+<h2 align="center">Tech Stack</h2>
+
 
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank">
