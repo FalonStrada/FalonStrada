@@ -23,5 +23,26 @@ I would love to receive feedback and contributions to my automation projects! If
 Thank you for visiting my portfolio and for your interest in my automation projects!
 
 ---
+## 🧰 Tech Stack
+
+<p align="center">
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://playwright.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white&style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://windsurf.codeium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Windsurf-00B4D8?logo=codeium&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+
 
 
