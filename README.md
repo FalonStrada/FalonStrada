@@ -22,7 +22,7 @@ I would love to receive feedback and contributions to my automation projects! If
 
 Thank you for visiting my portfolio and for your interest in my automation projects!
 
----
+
 <h2 align="center">Tech Stack</h2>
 
 
