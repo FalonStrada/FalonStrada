@@ -12,7 +12,7 @@ AE Automation Exercise
 This project involves automating a practice e-commerce website using Playwright and Typescript. It includes automation scripts for various functionalities, such as site navigation, product selection, and simulated purchases.
 
 ### About Me:
-As a QA professional with five years of experience, I've worked on various software testing projects. Currently, I am motivated to expand my skills towards regression testing automation, a highly demanded skill in today's job market. This repository serves as tangible evidence of my ability to learn and put new technologies into practice.
+As a QA professional, I've worked on various software testing projects. Currently, I am motivated to expand my skills towards regression testing automation, a highly demanded skill in today's job market. This repository serves as tangible evidence of my ability to learn and put new technologies into practice.
 
 ### Visibility:
 This repository is linked to my LinkedIn profile (Falon Strada) and is specifically aimed at recruiters, HR professionals, and QA Leads who visit my profile.
