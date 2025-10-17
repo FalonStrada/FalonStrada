@@ -8,8 +8,10 @@ AI is here to stay — and as someone starting in automation, Windsurf has been 
 My main goal with this repository is to gain experience in automation and document my learning process. Through automating projects, such as the example of an e-commerce website I've included here, I aim to showcase my skills in Playwright and TypeScript, as well as my ability to apply them in practical cases. 
 
 ### Highlighted Projects:
-AE Automation Exercise
+☑️ AE Automation Exercise
 This project involves automating a practice e-commerce website using Playwright and Typescript. It includes automation scripts for various functionalities, such as site navigation, product selection, and simulated purchases.
+
+☑️ Qase-Bulk-Test-Case-Creator is a framework I developed, designed to streamline the documentation of test cases by interacting solely with the Qase API. It features an intelligent Expected Results auto-generator and supports up to 10 test cases per request, allowing QA teams to save time and reduce manual effort while maintaining consistent and high-quality test documentation.
 
 ### About Me:
 As a QA professional, I've worked on various software testing projects. Currently, I am motivated to expand my skills towards regression testing automation, a highly demanded skill in today's job market. This repository serves as tangible evidence of my ability to learn and put new technologies into practice.
