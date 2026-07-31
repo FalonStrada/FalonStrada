@@ -40,11 +40,7 @@ Thank you for visiting my portfolio and for your interest in my automation proje
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
   </a>
-  &nbsp;
-  <a href="https://windsurf.codeium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Windsurf-00B4D8?logo=codeium&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+  
 
 
 
