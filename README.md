@@ -1,32 +1,60 @@
-<h2 align="center">Welcome to Falon Strada's Automation Portfolio</h2>
+<h2 align="center">Falon Strada — Automation Portfolio</h2>
 
+### Automated testing with Playwright
 
-### Agility made real: Automated testing with Playwright.
+I am a QA professional specializing in automation testing, with a focus on building reliable, maintainable test suites and improving engineering quality through automation. This repository showcases projects and the practical skills I have developed applying Playwright and TypeScript to real-world testing problems.
 
-AI is here to stay — and as someone starting in automation, Windsurf has been key to closing my programming learning gap, with continuous code reviews and mentorship guiding me throughout my learning journey.
+### Highlighted Projects
 
-My main goal with this repository is to gain experience in automation and document my learning process. Through automating projects, such as the example of an e-commerce website I've included here, I aim to showcase my skills in Playwright and TypeScript, as well as my ability to apply them in practical cases. 
+- AE Automation Exercise
+  - An end-to-end automation suite for a practice e-commerce website using Playwright and TypeScript. Demonstrates site navigation, product selection, cart flow, assertions, and cross-browser checks with a maintainable test structure.
 
-### Highlighted Projects:
-☑️ AE Automation Exercise
-This project involves automating a practice e-commerce website using Playwright and Typescript. It includes automation scripts for various functionalities, such as site navigation, product selection, and simulated purchases.
+- Qase-Bulk-Test-Case-Creator
+  - A framework I built to streamline test case documentation by interacting directly with the Qase API. It automates creation and organization of test cases and includes intelligent handling of expected results and mappings.
 
-☑️ Qase-Bulk-Test-Case-Creator is a framework I developed, designed to streamline the documentation of test cases by interacting solely with the Qase API. It features an intelligent Expected Results auto-generator and supports up to 100 test cases per request, allowing QA teams to save time and reduce manual effort while maintaining consistent and high-quality test documentation.
+### Skills and Experience Demonstrated
 
-### About Me:
-As a QA professional, I've worked on various software testing projects. Currently, I am motivated to expand my skills towards regression testing automation, a highly demanded skill in today's job market. This repository serves as tangible evidence of my ability to learn and put new technologies into practice.
+- Playwright (E2E) automation with TypeScript
+- Test architecture and maintainable test design (Page Object Model, modular helpers)
+- API automation and integration with third-party test management (Qase)
+- CI/CD integration (GitHub Actions) for running automated test suites
+- Test reporting, logging, and debugging strategies to make failures actionable
+- Cross-browser and cross-platform testing practices
+- Test data management and environment configuration
+- Version control (Git) and collaboration through code reviews and pull requests
 
-### Visibility:
-This repository is linked to my LinkedIn profile (Falon Strada) and is specifically aimed at recruiters, HR professionals, and QA Leads who visit my profile.
+### How to run (example)
 
-### How to Contribute:
-I would love to receive feedback and contributions to my automation projects! If you're interested in collaborating, you can contact me through LinkedIn.
+1. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+2. Run Playwright tests
+
+   ```bash
+   npx playwright test
+   ```
+
+3. To generate HTML reports
+
+   ```bash
+   npx playwright show-report
+   ```
+
+(Adjust commands to match specific project folders or configurations in this repository.)
+
+### How to Contribute or Reach Out
+
+Feedback and contributions are welcome. If you'd like to collaborate or discuss my automation work, please connect with me on LinkedIn: https://www.linkedin.com/in/FalonStrada
+
+You can also open issues or pull requests in this repository to suggest improvements.
 
 Thank you for visiting my portfolio and for your interest in my automation projects!
 
 
 <h2 align="center">Tech Stack</h2>
-
 
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank">
@@ -40,8 +68,4 @@ Thank you for visiting my portfolio and for your interest in my automation proje
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
   </a>
-  
-
-
-
-
+</p>
