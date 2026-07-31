@@ -23,27 +23,6 @@ I am a QA professional specializing in automation testing, with a focus on build
 - Test data management and environment configuration
 - Version control (Git) and collaboration through code reviews and pull requests
 
-### How to run (example)
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Run Playwright tests
-
-   ```bash
-   npx playwright test
-   ```
-
-3. To generate HTML reports
-
-   ```bash
-   npx playwright show-report
-   ```
-
-(Adjust commands to match specific project folders or configurations in this repository.)
 
 ### How to Contribute or Reach Out
 
